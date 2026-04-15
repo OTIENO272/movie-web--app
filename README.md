@@ -30,7 +30,7 @@ https://OTIENO272.github.io/movie-web--app/
 ---
 
 ## 🛠️ Tech Stack
-
+ 
 - Vite
 - JavaScript / React
 - CSS / Tailwind (update if needed)

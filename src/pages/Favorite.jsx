@@ -2,6 +2,7 @@ import "../CSS/Favorite.css";
 import { useMovieContext } from "../contexts/MovieContext";
 import MovieCard from "../Components/MovieCard";
 
+
 function Favorites() {
   const { favorites } = useMovieContext();
 

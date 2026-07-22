@@ -1,3 +1,4 @@
+
 import Home from './pages/Home'
 import { MovieProvider } from "./contexts/MovieContext";
 import './CSS/App.css'

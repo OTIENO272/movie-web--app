@@ -1,3 +1,4 @@
+
 import MovieCard from "../Components/MovieCard.jsx";
 import { useState, useEffect } from "react";
 import { searchMovies, getPopularMovies } from "../services/api.js";
